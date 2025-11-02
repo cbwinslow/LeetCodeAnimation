@@ -2,6 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "copy-assets": "node copy-assets.js",
     "dev": "npm run copy-assets && next dev",
